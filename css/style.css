@@ -1,0 +1,21 @@
+body {
+    background-color: red;
+    color: #ffffff;
+}
+
+h1 {
+    background-color: #000000;
+    padding: 10px;
+    text-align: center;
+}
+
+ul {
+    padding: 5px;
+    background-color: #333333;
+    padding: 30px;
+}
+
+li {
+    font-size: 20px;
+    list-style-type: square;
+}
